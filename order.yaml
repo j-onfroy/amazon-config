@@ -1,0 +1,4 @@
+app:
+  deafult:
+    page: 0
+    size: 20
